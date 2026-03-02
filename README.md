@@ -1,8 +1,7 @@
-# 👋 Hello, I'm [Chanduu Papaa]
+# 👋 Hello, I'm [Chanduu]
 
 ![My Photo](https://github.com/chandupapa/workshop-repositary/blob/main/hreds.jpg%20(3).jpeg)
 
-## 📌 About Me
 ## 👨‍💻 About Me
 
 I am an enthusiastic developer with hands-on experience in building responsive web applications and software solutions. I have a strong understanding of programming fundamentals and problem-solving techniques.
