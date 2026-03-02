@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Chanduu Papaa]
 
-![My Photo]()
+![My Photo](https://github.com/chandupapa/workshop-repositary/blob/main/hreds.jpg%20(3).jpeg)
 
 ## 📌 About Me
 I am a passionate developer with strong skills 
