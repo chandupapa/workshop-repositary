@@ -22,5 +22,5 @@ I am a passionate developer with strong skills
 - GitHub Link: https://github.com/username/project2
 
 ## 📫 Contact
-Email: your@email.com
-LinkedIn: https://linkedin.com/in/yourprofile
+Email: chandudivya09@email.com
+LinkedIn: https://linkedin.com/in/myprofile
